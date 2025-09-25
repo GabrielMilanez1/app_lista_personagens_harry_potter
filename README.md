@@ -13,7 +13,7 @@ python3 -m venv nome_do_ambiente
 ```
 E acessa-lo com:
 ```
-source nome_do_ambiente
+source nome_do_ambiente/bin/activate
 ```
 
 Em ambientes linux também pode haver a necessidade de instalar o tkinter manualmente, você pode fazer isso com:
