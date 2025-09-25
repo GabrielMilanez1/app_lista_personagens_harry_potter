@@ -25,7 +25,7 @@ sudo apt install python3-tk
 
 Para instalar as dependências é necessário executar na raíz do projeto:
 ```
-  pip install -m requirements.txt
+  pip install -r requirements.txt
 ```
 <br>
 
